@@ -14,9 +14,7 @@
             "url": "https://raw.githubusercontent.com/BudhiChristian/ner-annotation-suite-docs/master/sections/sample-doc.md",
             "sectionIds": [
                 "Subsection 1",
-                "Subsection 2",
-                "Subsection 3",
-                "Subsection 4"
+                "Subsection 2"
             ]
         }
     }
