@@ -6,12 +6,12 @@
     "details": {
         "introduction": {
             "title": "Introduction",
-            "url": "assets/documentation/sections/introduction.md",
+            "url": "https://raw.githubusercontent.com/BudhiChristian/ner-annotation-suite-docs/master/sections/introduction.md",
             "sectionIds": []
         },
         "sample-doc": {
             "title": "Sample Doc Page",
-            "url": "assets/documentation/sections/sample-doc.md",
+            "url": "https://raw.githubusercontent.com/BudhiChristian/ner-annotation-suite-docs/master/sections/sample-doc.md",
             "sectionIds": [
                 "Subsection 1",
                 "Subsection 2",
