@@ -1,7 +1,7 @@
 {
     "sections": [
         "introduction",
-        "sample-doc"
+        "getting-started"
     ],
     "details": {
         "introduction": {
@@ -9,12 +9,10 @@
             "url": "https://raw.githubusercontent.com/BudhiChristian/ner-annotation-suite-docs/master/sections/introduction.md",
             "sectionIds": []
         },
-        "sample-doc": {
-            "title": "Sample Doc Page",
-            "url": "https://raw.githubusercontent.com/BudhiChristian/ner-annotation-suite-docs/master/sections/sample-doc.md",
+        "getting-started": {
+            "title": "Getting Started",
+            "url": "https://raw.githubusercontent.com/BudhiChristian/ner-annotation-suite-docs/master/sections/getting-started.md",
             "sectionIds": [
-                "Subsection 1",
-                "Subsection 2"
             ]
         }
     }
