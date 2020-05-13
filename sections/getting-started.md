@@ -14,8 +14,8 @@ Currently the NER Annotation Suite supports two input types:
 
 By selecting "Start Empty" for input type, your session will start off with a blank slate. Once you begin annotation you will have the ability to add data on the fly using the panel on the left. 
 
-![sentence queue reference][sentence-queue]
-This panel will appear during the training stage
+![sentence queue reference][sentence-queue] 
+*This panel will appear during the training stage*
 
 ### Preloaded Data (TXT File)
 
