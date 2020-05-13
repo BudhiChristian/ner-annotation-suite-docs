@@ -13,7 +13,9 @@
             "title": "Getting Started",
             "url": "https://raw.githubusercontent.com/BudhiChristian/ner-annotation-suite-docs/master/sections/getting-started.md",
             "sectionIds": [
-                "Selecting a Data Input Type"
+                "Selecting a Data Input Type",
+                "Adding Entity Tags",
+                "Other Options"
             ]
         }
     }

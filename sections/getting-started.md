@@ -27,9 +27,27 @@ After uploading your file and selecting a delimiter, click the "Parse Text" butt
 
 Additional sentences may be added once you begin annotation using the same panel referenced in the "On the Fly Data Input" section.
 
+## Adding Entity Tags
 
+Entity tags are the labels that you will be using to annotate you training data to eventually extract from other text. These can be added before training in the "Add Tags" section of the setup page.
+
+![entity tag view][add-tags]
+
+A tag can be added by typing in the label into the Entity Tag input of the panel displayed above and clicking "Add". Before adding you may also pick the tag color by clicking on the pallete icon. Once a tag has been created you may delete or edit the tag's name and color by using the icons next to each label.
+
+This functionality will also be available when you begin annotating on the panel to the right.
+
+## Other Options
+
+Other options may be set up prior to training. These options can be found in the last section of training.
+
+### Snap To Token
+   
+Snapping to token allows for whole words to be selected without having to highlight every single character. If you want to select partial words, turn this feature off. 
 
 
 [sentence-queue]: https://christian-budhi-hosting.s3.amazonaws.com/ner-annotation-suite/ner_sentence_input.PNG
 
 [sentence-txt-input]: https://christian-budhi-hosting.s3.amazonaws.com/ner-annotation-suite/ner_text_input.PNG
+
+[add-tags]: https://christian-budhi-hosting.s3.amazonaws.com/ner-annotation-suite/ner_add_tags.PNG
