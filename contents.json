@@ -1,7 +1,8 @@
 {
     "sections": [
         "introduction",
-        "getting-started"
+        "getting-started",
+        "annotating-data"
     ],
     "details": {
         "introduction": {
@@ -16,6 +17,16 @@
                 "Selecting a Data Input Type",
                 "Adding Entity Tags",
                 "Other Options"
+            ]
+        }, 
+        "annotating-data": {
+            "title": "Annotating Data",
+            "url": "sections/annotating-data.md",
+            "sectionIds": [
+                "General Information",
+                "Setence Queue Panel",
+                "Entity Tag Panel",
+                "Annotator Panel"
             ]
         }
     }
