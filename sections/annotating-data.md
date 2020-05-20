@@ -15,10 +15,10 @@ Brief summary of each panel:
 
 ## Setence Queue Panel
 
-The sentence queue panel is comprised of two parts: the sentence queue view, and the sentence input controls.
+The sentence queue panel, to the left, is comprised of two parts: the sentence queue view, and the sentence input controls.
 
 ![Sentence Queue Panel][sentence-queue]
-*sentence queue panel - empty*
+*sentence queue panel view - empty*
 
 ### Sentence Queue View
 
@@ -30,11 +30,28 @@ Hover over the sentences to view them completely.
 
 Additional sentences can be added to the queue by entering the text into the text box and clicking the plus button. Sentences will be added to the end of the queue and cannot be empty or already exist in the training set.
 
-
-
 ## Entity Tag Panel
 
-documatation in progress
+The entity tag panel, to the right, will allow you to create, edit, and remove the entity tags used for annotating your data.
+
+![Entity Tag Panel][add-tags]
+*entity tag panel view*
+
+### Adding An Entity Tag
+
+An entity tag can be added to the list by inputing the name on the bottom section of the entity tag panel and clicking add. The display color can also be changed by clicking the palette icon and selecting a color. This color will be the highlight color used to display tagged entities in you sentence.
+
+### Editing An Entity Tag
+
+![Entity Tag Edit][edit-tags]
+
+By clicking the pencil icon of an entity tag, a popup will appear (displayed above) that will allow you to edit the tag's name and color. In order for you change to take effect you must click 'save'; otherwise, click the x icon to cancel. 
+
+Editing an entity tag's name and/or color will propagate changes to existing entities in data that has already been tagged.
+
+### Removing An Entity Tag
+
+You can remove an entity tag by click simply clicking the trash can item on the entity tag item. This operation will not remove entities with this tag on already tagged sentences.
 
 ## Annotator Panel
 
@@ -43,3 +60,7 @@ documatation in progress
 [sentence-queue]: https://christian-budhi-hosting.s3.amazonaws.com/ner-annotation-suite/ner_sentence_input.PNG
 
 [annotationScreen]: https://christian-budhi-hosting.s3.amazonaws.com/portfolio/ner-annotation-suite.PNG
+
+[add-tags]: https://christian-budhi-hosting.s3.amazonaws.com/ner-annotation-suite/entity_tag_panel.PNG
+
+[edit-tags]: https://christian-budhi-hosting.s3.amazonaws.com/ner-annotation-suite/entity_tag_edit.PNG
