@@ -15,7 +15,22 @@ Brief summary of each panel:
 
 ## Setence Queue Panel
 
-documatation in progress
+The sentence queue panel is comprised of two parts: the sentence queue view, and the sentence input controls.
+
+![Sentence Queue Panel][sentence-queue]
+*sentence queue panel - empty*
+
+### Sentence Queue View
+
+If sentences are ready to be annotated, a list of the next ten sentences will be display on the bottom section of the sentence queue panel. Any remaining sentences will be indicated at the bottom. The sentence at the top will be the sentence currently being staged for annotation.
+
+Hover over the sentences to view them completely.
+
+### Sentence Input Controls
+
+Additional sentences can be added to the queue by entering the text into the text box and clicking the plus button. Sentences will be added to the end of the queue and cannot be empty or already exist in the training set.
+
+
 
 ## Entity Tag Panel
 
@@ -24,5 +39,7 @@ documatation in progress
 ## Annotator Panel
 
 documatation in progress
+
+[sentence-queue]: https://christian-budhi-hosting.s3.amazonaws.com/ner-annotation-suite/ner_sentence_input.PNG
 
 [annotationScreen]: https://christian-budhi-hosting.s3.amazonaws.com/portfolio/ner-annotation-suite.PNG
