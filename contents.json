@@ -2,7 +2,9 @@
     "sections": [
         "introduction",
         "getting-started",
-        "annotating-data"
+        "annotating-data",
+        "exporting-data",
+        "integration"
     ],
     "details": {
         "introduction": {
@@ -28,6 +30,16 @@
                 "Entity Tag Panel",
                 "Annotator Panel"
             ]
+        },
+        "exporting-data": {
+            "title": "Exporting Data",
+            "url": "sections/exporting-data.md",
+            "sectionIds": []
+        },
+        "integration": {
+            "title": "Integration",
+            "url": "sections/integration.md",
+            "sectionIds": []
         }
     }
 }
